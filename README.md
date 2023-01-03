@@ -1,10 +1,12 @@
 # Markdown Support for Visual Studio Code <!-- omit in toc -->
 
-[![version](https://img.shields.io/vscode-marketplace/v/yzhang.markdown-all-in-one.svg?style=flat-square&label=vscode%20marketplace)](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-[![installs](https://img.shields.io/vscode-marketplace/d/yzhang.markdown-all-in-one.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yzhang-gh/vscode-markdown/main.yml?style=flat-square&branch=master)](https://github.com/yzhang-gh/vscode-markdown/actions)
-[![GitHub stars](https://img.shields.io/github/stars/yzhang-gh/vscode-markdown.svg?style=flat-square&label=github%20stars)](https://github.com/yzhang-gh/vscode-markdown)
-[![GitHub Contributors](https://img.shields.io/github/contributors/yzhang-gh/vscode-markdown.svg?style=flat-square)](https://github.com/yzhang-gh/vscode-markdown/graphs/contributors)
+## Fork Goal
+
+Extend functionality to easily add support for additional flavors of Markdown for various wikis, etc.
+
+For example, [Wiki Creole](http://www.wikicreole.org/wiki/Home) is an obscure minimalistic flavor used by [IBM Jazz Plans](https://jazz.net/clmhelp/topic/com.ibm.team.apt.doc/topics/r_rich_text.html).
+
+---
 
 All you need for Markdown (keyboard shortcuts, table of contents, auto preview and more).
 
